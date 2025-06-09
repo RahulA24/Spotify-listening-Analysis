@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-This project analyzes personal Spotify streaming history to uncover trends in listening habits—such as peak activity times, favorite artists/songs, and skip behavior. It includes a predictive modeling component using Random Forest to forecast song skips and K-means clustering to categorize listeners into distinct behavioral groups. Interactive visualizations and actionable insights help better understand music consumption patterns.
+This project analyzes personal Spotify streaming history to uncover trends in listening habits such as peak activity times, favorite artists/songs, and skip behavior. It includes a predictive modeling component using Random Forest to forecast song skips and K-means clustering to categorize listeners into distinct behavioral groups. Interactive visualizations and actionable insights help better understand music consumption patterns.
 
 ## Tools & Technologies Used
 
